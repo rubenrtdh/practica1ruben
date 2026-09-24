@@ -1,5 +1,5 @@
 # Mi practica de Git y GitHub
-##Practica de 2ASIR
+## Practica de 2ASIR
 En esta práctica estoy trabajando con **GIT**. Y aprendiendo a utilizar *repositorios* y comandos como `git status`.
 ```bash
 git add .

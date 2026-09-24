@@ -4,7 +4,8 @@ En esta práctica estoy trabajando con **GIT**. Y aprendiendo a utilizar *reposi
 ```bash
 git add .
 git commit -m "Mi primer commit"
-git push```
+git push
+```
 
 Es un bloque de código.
 
